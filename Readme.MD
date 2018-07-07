@@ -1,6 +1,7 @@
 # DOM-PIG-GAME
 
 Práctica de javascript.
+https://makadown.github.io/DOM-pig-game/
 
 # Reglas del juego
 
